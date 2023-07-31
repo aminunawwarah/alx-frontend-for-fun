@@ -1,1 +1,3 @@
-# alx-frontend-for-fun
+******ALX Frontend for Fun Repo******
+#####################################
+This repo contains optional prorjects.
